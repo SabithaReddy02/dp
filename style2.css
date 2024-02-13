@@ -1,0 +1,17 @@
+body{
+    background-image: url(image2.jpg);
+
+    background-size: cover;
+    height:100vh;
+
+}
+.main{
+    font-weight: bold;
+    color: white;
+}
+.gif{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.

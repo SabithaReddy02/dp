@@ -1,0 +1,25 @@
+body{
+    background-image: url(valentines.avif);
+    background-size: cover;
+}
+.Open{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:wheat;
+}
+button{
+    padding: 15px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: red;
+    color: white;
+}
+a{
+    list-style: none;
+}
